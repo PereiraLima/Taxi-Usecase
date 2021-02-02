@@ -10,3 +10,5 @@
 <li>Data loader: Extract files in source folder, put everything together and output a zipfile</li>
 <li>Taxi use-case - full dataset: use case using the whole dataset (another version use 10% of it)</li>
 </ul>
+
+Data source: https://github.com/PDXostc/rvi_big_data/blob/master/cabspottingdata.tar.gz
