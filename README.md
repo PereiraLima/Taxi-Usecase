@@ -1,5 +1,5 @@
 <h1>Taxi cabs use case</h1>
-<h2>Objectif of the assignment</h2>
+<h2>Objective of the assignment</h2>
 <ol>
 <li>Determine the potential yearly CO2 emission reduction</li>
 <li>Predictive model for the next pick-up spot</li>
