@@ -5,7 +5,7 @@
 <li>Predictive model for the next pick-up spot</li>
 </ol>
 <p>&nbsp;</p>
-<h2>Script</h2>
+<h2>Scripts</h2>
 <ul>
 <li>Data loader: Extract files in source folder, put everything together and output a zipfile</li>
 <li>Taxi use-case - full dataset: use case using the whole dataset (another version use 10% of it)</li>
